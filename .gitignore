@@ -6,3 +6,13 @@ Spring/.settings/org.eclipse.core.resources.prefs
 Spring/.settings/org.eclipse.jdt.core.prefs
 Spring/src/module-info.java
 SpringOverview/Notes.txt
+course.api/.classpath
+course.api/.project
+course.api/.settings/org.eclipse.core.resources.prefs
+course.api/.settings/org.eclipse.jdt.core.prefs
+course.api/.settings/org.eclipse.jdt.apt.core.prefs
+course.api/.settings/org.eclipse.m2e.core.prefs
+course.api/.settings/org.springframework.ide.eclipse.prefs
+course.api/target/classes/META-INF/MANIFEST.MF
+course.api/target/classes/META-INF/maven/alstonstone.springbootquickstart/course.api/pom.properties
+course.api/target/classes/META-INF/maven/alstonstone.springbootquickstart/course.api/pom.xml
