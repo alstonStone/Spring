@@ -16,3 +16,4 @@ course.api/.settings/org.springframework.ide.eclipse.prefs
 course.api/target/classes/META-INF/MANIFEST.MF
 course.api/target/classes/META-INF/maven/alstonstone.springbootquickstart/course.api/pom.properties
 course.api/target/classes/META-INF/maven/alstonstone.springbootquickstart/course.api/pom.xml
+*.class
